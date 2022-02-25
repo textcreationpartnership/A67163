@@ -1,0 +1,718 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three poems of St. Paul's Cathedral viz. The ruins. The rebuilding. The choire.</title>
+            <author>Wright, James, 1643-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67163</idno>
+            <idno type="STC">Wing W3700</idno>
+            <idno type="STC">ESTC R221253</idno>
+            <idno type="EEBO-CITATION">99832588</idno>
+            <idno type="PROQUEST">99832588</idno>
+            <idno type="VID">37062</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37062)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2105:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three poems of St. Paul's Cathedral viz. The ruins. The rebuilding. The choire.</title>
+                  <author>Wright, James, 1643-1713.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Ben. Griffin for Sam. Keble, at the Turk's-Head, over against Fetter-lane, in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With advertisement at foot of p. 12.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>St. Paul's Cathedral (London, England) --  Early works to 1800.</term>
+               <term>English literature --  Poetry --  Early modern, 1500-1700.</term>
+               <term>Architecture --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37062:1" rendition="simple:additions"/>
+            <p>THREE POEMS OF St. <hi>PAUL</hi>'s Cathedral: <hi>VIZ.</hi> The RUINS. The REBUILDING. The CHOIRE.</p>
+            <q>
+               <l>Verum Haec tantum alias inter caput extulit <hi>Urbis,</hi>
+               </l>
+               <l>Quantum lenta ſolent inter viburna cupreſſi.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Ben. Griffin</hi> for <hi>Sam. Keble,</hi> at the <hi>Turk's-Head,</hi> over againſt <hi>Fetter-lane,</hi> in <hi>Fleet-ſtreet,</hi> 1697.</p>
+            <pb facs="tcp:37062:2" rendition="simple:additions"/>
+            <pb facs="tcp:37062:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:37062:3" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:37062:3" rendition="simple:additions"/>
+            <head>The RUINS.</head>
+            <head type="sub">Writ in the Year, <hi>1668.</hi>
+            </head>
+            <lg>
+               <l>IT was a Curious, tho' a mournful Thought,</l>
+               <l>Led me to viſit that unſightly Place,</l>
+               <l>Where diſmal Fate ſuch a ſad Change had wrought,</l>
+               <l>That none cou'd know the Object by the Face.</l>
+            </lg>
+            <lg>
+               <l>I who have ſeen thy beauties Pride, before,</l>
+               <l>Thou Queen of <hi>England</hi>'s Churches, I who here</l>
+               <l>Have heard thy charming Voice, view thee once more,</l>
+               <l>Tho' now nor Speech, nor Comlineſs appear.</l>
+            </lg>
+            <lg>
+               <l>Yet Speechleſs as thou art, were <hi>Donne,</hi> and all</l>
+               <l>Thoſe moving Preachers, here, that once were thine,</l>
+               <l>All they cou'd ſay were leſs Emphatical</l>
+               <l>Of Death, falſe Glory, and deceiful Time.</l>
+            </lg>
+            <lg>
+               <l>I did ſuppoſe 'em here, and they are here!</l>
+               <l>What Wonder's this? Thoſe who before did Teach</l>
+               <l>Such Doctrines, now lie mute, and diſappear,</l>
+               <l>And even theſe Stones aſſume their place, and Preach.</l>
+            </lg>
+            <lg>
+               <l>The parts ſo many in this Sermon are,</l>
+               <l>As there are places in this ruin'd Pile,</l>
+               <l>Firſt ſee, where that wild Dunghill lies, juſt there</l>
+               <l>Beauty and Order ſat enthroned e'rewhile.</l>
+            </lg>
+            <lg>
+               <l>Beauty! What art thou, poſting thus away?</l>
+               <l>If <hi>Pauls</hi> which ſtood this Iſland's Fame and Grace</l>
+               <l>Above a Thouſand Years, fell in one Day,</l>
+               <l>How canſt thou laſt one moment in a Face?</l>
+            </lg>
+            <lg>
+               <l>See in that place Confuſions thick-ſown Field,</l>
+               <l>With Limbs of Tombs: A Lady's Arm lies there</l>
+               <l>Of Aliblaſter, in a Marble Sheild,</l>
+               <l>'Twixt half a Knight, and a Devote at Prayer.</l>
+            </lg>
+            <lg>
+               <l>A Caſual heap of divers ſorts of Stone,</l>
+               <l>In ſeveral Forms, all met from ſeveral Ways,</l>
+               <l>As if their meeting was deſign'd, alone,</l>
+               <l>A Monument of Diſcord, here, to raiſe.</l>
+            </lg>
+            <pb n="4" facs="tcp:37062:4" rendition="simple:additions"/>
+            <lg>
+               <l>Here's an imperfect Limb, and there lies more:</l>
+               <l>Thus, Poets ſay, when the Great Floud was gone,</l>
+               <l>Lookt <hi>Pyrrha</hi>'s Stones which did Mankind reſtore,</l>
+               <l>Their Humain ſhape ſcarce being half put on.</l>
+            </lg>
+            <lg>
+               <l>What Lead is that ſo bruis'd, and ſmear'd with Filth,</l>
+               <l>Lies on the Brink of thoſe new open'd Graves,</l>
+               <l>Like a freſh Furrow turn'd up by the Tilth,</l>
+               <l>Or Wreck new caſt aſhoar by angry Waves?</l>
+            </lg>
+            <lg>
+               <l>See Letters too,<note n="†" place="margin">Hic jacet <hi>Nicholaus Bacon</hi> miles quondam Cuſtos mag<g ref="char:EOLhyphen"/>ni Sigilli <hi>Angliae</hi> ſub <hi>Elizabetha</hi> Regina, qui functus eſt Officio viginti annos. Ob. An. Dom. <hi>1578. Caſt on a leaden Coffin.</hi>
+                  </note> that ſay, <hi>Bacon</hi> lies here</l>
+               <l>Firſt Chancellor of that Name, who heretofore</l>
+               <l>Kept that unquiet Office twenty Year,</l>
+               <l>But cannot keep the peaceful Grave Fiveſcore.</l>
+            </lg>
+            <lg>
+               <l>This Lead in <hi>Pauls</hi> might as a Wonder ſhew,</l>
+               <l>But that Humility is Ruin proof:</l>
+               <l>Safe and intire this lay i'th' Floor below,</l>
+               <l>While Flames did humble that above the Roof.</l>
+            </lg>
+            <lg>
+               <l>Ha! What is that peeps through yon' Grave and Shroud</l>
+               <l>With ſuch a frighted, and a frightful look?</l>
+               <l>Gaſtly as Comets from behind a Cloud,</l>
+               <l>When they declare what's Writ in fates Black Book.</l>
+            </lg>
+            <lg>
+               <l>Gallants, what think ye, will this faſhion do?</l>
+               <l>A Wig may well ſupply his loſs of Hair:</l>
+               <l>His Noſe is gone, that may be wanting too;</l>
+               <l>But here's no Eyes, ah! That is paſt repair.</l>
+            </lg>
+            <lg>
+               <l>Now wou'd you have an Object to invade</l>
+               <l>All that is Man within you, by the ſight,</l>
+               <l>See there Death preſence Chamber quite diſplay'd:</l>
+               <l>Ha! this doth both the Eye, and Noſe affright.</l>
+            </lg>
+            <lg>
+               <l>Yet mind how that bold Sexton there doth tread</l>
+               <l>Familiarly upon the Trunk half Clay,</l>
+               <l>And crams to it the Bones of ſeveral Dead:</l>
+               <l>Sure he's more Dead and Senceleſs than are they!</l>
+            </lg>
+            <lg>
+               <l>Look here, you Wantons, for like this muſt be</l>
+               <l>Your laſt ſoft Bed, and ſuch your ſpacious Room;</l>
+               <l>Such Garb, ſuch Mrith, and ſuch gay Company,</l>
+               <l>And ſuch an Odoriferous Perfume.</l>
+            </lg>
+            <lg>
+               <l>Where's the rich <hi>Cenotaph,</hi> and richer <hi>Shrine,</hi>
+               </l>
+               <l>With all thoſe pompous Words here lately read,</l>
+               <l>Which Princes made Majeſtick, Saints, Divine?</l>
+               <l>All ſunk, and periſht all, as are their Dead.</l>
+            </lg>
+            <pb n="5" facs="tcp:37062:4" rendition="simple:additions"/>
+            <lg>
+               <l>Memorials need their Epitaphs! We might</l>
+               <l>(Cou'd we as truly point the where, and whom)</l>
+               <l>With ſome Coal of this ruin'd Fabrick, write</l>
+               <l>
+                  <hi>Here lies within this place that Great Man's Tomb.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Falſe Guardians! You but ill diſcharge your Truſt,</l>
+               <l>Thus from your ſilent Wards to fall away;</l>
+               <l>Mingling your Rubbiſh with their finer Duſt:</l>
+               <l>While of your Dead you nothing ſhew, or ſay.</l>
+            </lg>
+            <lg>
+               <l>Scarcely their Names remain: Yet<note n="*" place="margin">Biſhop <hi>Braybrook</hi> ſuppoſed.</note> one of theſe</l>
+               <l>Slept in his Grave two hundred Years, intire.</l>
+               <l>Nor wonder; he who owns this Houſe can pleaſe</l>
+               <l>To guard his Saints both from the Earth, and Fire.</l>
+            </lg>
+            <lg>
+               <l>Oh Revernd Man! If I mayn't call thee more</l>
+               <l>Than ſuch, when to this prefect Shape of thine</l>
+               <l>Flames knew their diſtance, and Worms ſeem'd t'adore,</l>
+               <l>Thou waſt thine own beſt Epitaph, and Shrine.</l>
+            </lg>
+            <lg>
+               <l>But how cou'd Tombs preſerve their Dead, ſo ſmall,</l>
+               <l>When <hi>Pauls</hi> nor them, nor her own ſelf cou'd ſave?</l>
+               <l>The greater Monument on the leſs did fall;</l>
+               <l>And what was once their Glory, is their Grave.</l>
+            </lg>
+            <lg>
+               <l>This ponderous Fall in its ſad paſſage hath</l>
+               <l>Open'd a place that was both Roof and Floor:</l>
+               <l>A Reverend Vault ſacred to <hi>Holy Faith,</hi>
+               </l>
+               <l>Which n'ere was violated thus before.</l>
+            </lg>
+            <lg>
+               <l>Now the Old Tower's t'ane down; and with good Cauſe,</l>
+               <l>Tho' ſpared by angry Flames; yet for the Head</l>
+               <l>Still to ſurvive, is againſt Nature's Laws,</l>
+               <l>When all the Body, and its Limbs are dead.</l>
+            </lg>
+            <lg>
+               <l>See yet another Ruin; here were laid</l>
+               <l>Choice Authors by the Servants of the Muſes:</l>
+               <l>And here to ſacrilegious Flames betray'd:</l>
+               <l>To ſpare or Wit, or Temples, Fire refuſes.</l>
+            </lg>
+            <lg>
+               <l>Theſe half burnt Papers, lying here, needs muſt</l>
+               <l>Be for the Library of the Dead miſtook:</l>
+               <l>And for a Scholar, fal'n himſelf to duſt,</l>
+               <l>Aſhes of Paper is a proper Book.</l>
+            </lg>
+            <lg>
+               <l>Cou'dſt thou not, <hi>Pauls,</hi> in all thy Vaults of Stone,</l>
+               <l>Preſerve theſe Papers from the Tyrant Flame?</l>
+               <l>When thou by Paper, and by it alone,</l>
+               <l>Art ſtill preſerved to triumph o're the ſame.</l>
+            </lg>
+            <pb n="6" facs="tcp:37062:5" rendition="simple:additions"/>
+            <lg>
+               <l>Wer't not for Books, the Loſs had double been:</l>
+               <l>But that thou art in <hi>Dugdale</hi>'s painful Story</l>
+               <l>And Beautious Illuſtrations, to be ſeen,</l>
+               <l>Thy Memory had periſht with thy Glory.</l>
+            </lg>
+            <lg>
+               <l>See the Reward of learned Pains! as he</l>
+               <l>Hath writ for <hi>Pauls</hi> a Monument to Fame,</l>
+               <l>So the ſame <hi>Pauls</hi> in gratitude will be</l>
+               <l>An Everlaſting Honour to his Name.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>The Rebuilding.</head>
+            <head type="sub">Writ in the Year, <hi>1677.</hi>
+            </head>
+            <lg>
+               <l>WHat Infant Beauty's this with Royal Grace,</l>
+               <l>Springs up a grateful Object to our Eyes</l>
+               <l>In ſo deform'd and deſolate a Place?</l>
+               <l>As Chymick Flowers from their own Aſhes riſe.</l>
+            </lg>
+            <lg>
+               <l>Does Time revolve back to the <hi>Saxons</hi> Days,</l>
+               <l>Devotions more than Golden Age? 'Twas thus</l>
+               <l>Thoſe were employed who did the Temples raiſe,</l>
+               <l>And left, I bluſh I can not ſay, to us.</l>
+            </lg>
+            <lg>
+               <l>For a ſucceeding Age produc'd a Race</l>
+               <l>That durſt aſſume the (then unthought of) Guilt,</l>
+               <l>And with a falſe but equal Zeal, deface</l>
+               <l>What the <hi>True Puritans</hi> before had built.</l>
+            </lg>
+            <lg>
+               <l>But now ſlow time repays again that Debt</l>
+               <l>Which kind Antiquity of old did lend:</l>
+               <l>Fate has a Monarch raiſed who, Good as Great,</l>
+               <l>Does like himſelf, our wounded Faith defend.</l>
+            </lg>
+            <lg>
+               <l>Tell of the pious <hi>Ethelbert</hi> no more,</l>
+               <l>Nor mention peaceful <hi>Edgar's</hi> happy Fame,</l>
+               <l>Since that renown they juſtly claim'd before,</l>
+               <l>Leſſens and drowns in <hi>Charles</hi> his greater Name.</l>
+            </lg>
+            <lg>
+               <l>Thoſe Royal Saints rejoice where now they reign,</l>
+               <l>To ſee the chief of all their mighty Heirs,</l>
+               <l>Under his Government reſtore again</l>
+               <l>The Darling Peace, and Piety of theirs.</l>
+            </lg>
+            <pb n="7" facs="tcp:37062:5" rendition="simple:additions"/>
+            <lg>
+               <l>To ſuch a King what Duty ought appear,</l>
+               <l>How much of unfeign'd Reverence and Love?</l>
+               <l>Who not alone pleaſes all Good Men, here,</l>
+               <l>But adds a Joy to the Bleſt Souls above.</l>
+            </lg>
+            <lg>
+               <l>He <hi>London</hi> raiſed, ruin'd and ſunk in Fire,</l>
+               <l>To her now State, and as a Crown to all</l>
+               <l>(Since higher than Heaven no <hi>Hero</hi> can aſpire)</l>
+               <l>Reſtores the Honour of her Patron <hi>Paul.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Paul,</hi> a great Prince among the Twelve, and our</l>
+               <l>Peculiar Doctor, after all the Grief</l>
+               <l>He lately ſuffer'd from a Rebel Power,</l>
+               <l>Has found at <hi>Caeſars</hi> Judgment-Seat, Relief.</l>
+            </lg>
+            <lg>
+               <l>Who has not heard how they theſe Walls did ſtain</l>
+               <l>Making a Church a loathſome Stable? Thus</l>
+               <l>The Saint with Beaſts encounter'd once again,</l>
+               <l>More Barberous than thoſe at <hi>Epheſus.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Since like a common <hi>Houſe,</hi> Flames did ſurprize</l>
+               <l>The Roof: the Church obſcured in Ruins, lay;</l>
+               <l>'Till now Great <hi>Charles</hi> bids her a Temple riſe,</l>
+               <l>And from her Ten Years ſleep, ſalute the Day.</l>
+            </lg>
+            <lg>
+               <l>Here, while the Powers of Art are all imploy'd</l>
+               <l>To build, what's paſt the thought of Reparation;</l>
+               <l>The very Ruins are themſelves diſtroy'd,</l>
+               <l>And the Whole levelled to the firſt Foundation.</l>
+            </lg>
+            <lg>
+               <l>Once more from nothing <hi>Pauls</hi> ſhall peirce the Sky!</l>
+               <l>So at the laſt and univerſal flame,</l>
+               <l>Man from that Earth where he diſſolved did lie,</l>
+               <l>Shall ſpring new made, more fair, and yet the ſame.</l>
+            </lg>
+            <lg>
+               <l>Ruin does thus the way to Beauty prove:</l>
+               <l>And if a Paradox like this, can be,</l>
+               <l>The Immaterial Church in time may move</l>
+               <l>Out of Confuſion to Conformity.</l>
+            </lg>
+            <lg>
+               <l>Riſe a good Omen to our Churches Peace,</l>
+               <l>Thou reverend Structure; and as thy Saint <hi>Paul</hi>
+               </l>
+               <l>(Whoſe Honour did by being 'orecome increaſe)</l>
+               <l>Advance more Great and Glorious from thy Fall.</l>
+            </lg>
+            <lg>
+               <l>But ſince a Work like this muſt ſlowly riſe,</l>
+               <l>And few may live to ſee it built out-right,</l>
+               <l>To ſatisfy this Generation's Eyes,</l>
+               <l>Behold in little a Prophetick<note n="†" place="margin">The Model.</note> Sight</l>
+            </lg>
+            <pb n="8" facs="tcp:37062:6" rendition="simple:additions"/>
+            <lg>
+               <l>Thus when in flames th' <hi>Arabian</hi> Bird expires,</l>
+               <l>To live again in a more vigorous Birth,</l>
+               <l>A little <hi>Phenix</hi> from thoſe Funeral Fires</l>
+               <l>Starts up the Embryo-Wonder of the Earth.</l>
+            </lg>
+            <lg>
+               <l>What miracle of Art will grow from hence,</l>
+               <l>And Challenge through the World a Parallel,</l>
+               <l>When the bare Model only, for expence,</l>
+               <l>And real value, does ſo far excell?</l>
+            </lg>
+            <lg>
+               <l>But ſomething more majeſtick than even this,</l>
+               <l>May we with ſolid Reaſon well expect,</l>
+               <l>Where to the Work a <hi>Charles</hi> auſpicious is:</l>
+               <l>An aid ſo Great can have no ſmall effect.</l>
+            </lg>
+            <lg>
+               <l>That darling Name ſhall be for ever bleſt;</l>
+               <l>And all who help this noble Pile to riſe,</l>
+               <l>When from their happy Labours here, they reſt,</l>
+               <l>Eternal Fame ſhall mention their due praiſe.</l>
+            </lg>
+            <lg>
+               <l>What did I ſay? Only Eternal Fame?</l>
+               <l>Better Records are to ſuch merit given;</l>
+               <l>Angels ſhall write with their own Quills each name</l>
+               <l>I'th' everlaſting Regiſters of Heaven.</l>
+            </lg>
+            <lg>
+               <l>While every Artiſt, who is any way</l>
+               <l>Concern'd in this illuſtrious Edifice,</l>
+               <l>Like Officers who their own Penſions pay,</l>
+               <l>Builds his own Monument in building This.</l>
+            </lg>
+            <lg>
+               <l>Earths Cabinet of Rarities, famed <hi>Rome,</hi>
+               </l>
+               <l>No longer now, remains without compare;</l>
+               <l>Since <hi>Britiſh</hi> Architecture dares preſume</l>
+               <l>To vie with the moſt celebrated there.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Britain,</hi> who tho', perhaps, the laſt ſhe be</l>
+               <l>To imitate what's Great in Foreign parts,</l>
+               <l>Yet when ſhe that hath done, we always ſee,</l>
+               <l>Th' inventors ſhe excells in their own Arts.</l>
+            </lg>
+            <lg>
+               <l>Oh, happy <hi>Engliſhmen!</hi> if we cou'd know</l>
+               <l>Our Happineſs, and our too active fears</l>
+               <l>Of being wretched, did not make us ſo!</l>
+               <l>What cauſe of grief, but this alone, appears.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>France,</hi> and her Neighbours flame in mutual War,</l>
+               <l>Seeking by Arms each others Reſt t'invade;</l>
+               <l>But while they burn and bleed, we only, are</l>
+               <l>Rich in an envy'd Peace, and Foreign Trade.</l>
+            </lg>
+            <pb n="9" facs="tcp:37062:6" rendition="simple:additions"/>
+            <lg>
+               <l>While there nor Church, nor Sanctuary, can</l>
+               <l>Sheild the rich Merchant from the armed Rout,</l>
+               <l>Nor Virgin from the luſt of furious Man,</l>
+               <l>Our Iſland one <hi>Aſylum</hi> ſeems, throughout.</l>
+            </lg>
+            <lg>
+               <l>Sacred and Civil Structures, there, decreaſe,</l>
+               <l>And while to Arms their lofty Heads ſubmit,</l>
+               <l>We are imploy'd in the beſt works of Peace,</l>
+               <l>And erect Temples to the God of it.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>The CHOIRE.</head>
+            <head type="sub">Writ in the Year, <hi>1697.</hi>
+            </head>
+            <lg>
+               <l>TH' <hi>Almighty Architect</hi> forms in Mankind</l>
+               <l>The Heart, and nobler Organs of the Soul,</l>
+               <l>In the firſt place; ſo here firſt built we find</l>
+               <l>The ſacred <hi>Choire,</hi> that animates the Whole.</l>
+            </lg>
+            <lg>
+               <l>Full twenty Years (a time but ſhort when paſt,</l>
+               <l>Tho' long to come) this noble Object gave:</l>
+               <l>See and admire, what Miracles at laſt</l>
+               <l>We may by patient Expectation have.</l>
+            </lg>
+            <lg>
+               <l>'Tis true th' <hi>Eternal</hi> built the World's vaſt Frame</l>
+               <l>By one commanding Word, then left to Man</l>
+               <l>With time to furniſh, and adorn the ſame:</l>
+               <l>The Creature works not as this Maker can!</l>
+            </lg>
+            <lg>
+               <l>Thoſe who extoll old <hi>Rome</hi> are forced to ſay</l>
+               <l>The Great <hi>Vitruvius</hi> in our <hi>Wren</hi> ſurvives:</l>
+               <l>The Sons of Modern <hi>Rome</hi> as truly may</l>
+               <l>Confeſs, the ancient Piety ſtill lives.</l>
+            </lg>
+            <lg>
+               <l>Such ſolid Art, and uniform Deſign,</l>
+               <l>Admiring <hi>England</hi> ne're did yet behold:</l>
+               <l>Where Strength and Curioſity combine,</l>
+               <l>To ſame theſe latter Days above the old.</l>
+            </lg>
+            <lg>
+               <l>What ſhall I firſt applaud, what firſt diſplay?</l>
+               <l>The charming Objects pleaſe ſo many ways,</l>
+               <l>That in the Choice 'tis difficult to ſay</l>
+               <l>Where to begin; more where to end our Praiſe.</l>
+            </lg>
+            <pb n="10" facs="tcp:37062:7" rendition="simple:additions"/>
+            <lg>
+               <l>Without, within, below, above, the Eye</l>
+               <l>Is fill'd with equal Wonder and Delight;</l>
+               <l>Beauty appears in all Variety,</l>
+               <l>Yet in each different Dreſs, 'tis exquiſite.</l>
+            </lg>
+            <lg>
+               <l>The rich <hi>Feſtoons</hi> are of ſuch noble kind</l>
+               <l>Around the Sacred Pile, as ſure had been</l>
+               <l>Too good for outward Work, did we not find</l>
+               <l>Something more Great, more Wonderful, within.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Gates</hi> that open to this Glorious Place</l>
+               <l>Are of ſo rare, ſo exquiſite a Mold,</l>
+               <l>Who views 'em thinks he has before his Face</l>
+               <l>The Temple-Gate call'd<note n="*" place="margin">Act. 3.2.</note> 
+                  <hi>Beautiful</hi> of Old.</l>
+            </lg>
+            <lg>
+               <l>Rich in their Price, in Workmanſhip no leſs,</l>
+               <l>And ſtill to make it more Authentical,</l>
+               <l>The hammer'd Mettle carries an Impreſs</l>
+               <l>Of Holy <hi>Peter</hi> joyn'd to that of <hi>Paul.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Well may St. <hi>Peter</hi>'s Figure here be ſeen,</l>
+               <l>For if thoſe Gates of which he ſhews the Keys</l>
+               <l>Have ever truly repreſented been,</l>
+               <l>It is undoubtedly by ſuch as theſe.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Organ</hi> ſuch, for Pipes, Caſe, Coſt, and thoſe</l>
+               <l>Rich Marble Legs on which the Frame does ſtand,</l>
+               <l>That all who ſee the Work may well ſuppoſe</l>
+               <l>This the <hi>Cathedral Organ</hi> of the Land.</l>
+            </lg>
+            <lg>
+               <l>Such Ornaments, ſuch Miracles of Art,</l>
+               <l>Enrich the <hi>Stalls,</hi> thoſe Springs of Harmony,</l>
+               <l>That did nor Voice, nor Organ, bear their part,</l>
+               <l>Yet this alone, were Muſick to the Eye.</l>
+            </lg>
+            <lg>
+               <l>A Cherub's Head appears o're every Seat</l>
+               <l>Form'd with ſurpaſſing Skill, as hov'ring there</l>
+               <l>Like the bright Miniſters of Heaven who wait</l>
+               <l>To catch, and carry up the Suppliants Prayer.</l>
+            </lg>
+            <lg>
+               <l>The polliſht <hi>Floor</hi> ſeems to th' admiring Eye</l>
+               <l>Too Rich and Delicate to tread upon:</l>
+               <l>More precious, here, than ſuch in <hi>Italy;</hi>
+               </l>
+               <l>For here 'tis Marble, there, the Country Stone.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Altar-Piece,</hi> and Decorations there,</l>
+               <l>Are of a New, and ſingular Deſign:</l>
+               <l>And all as pleaſing as ſurprizing are,</l>
+               <l>While with a ſolemn Gayety they ſhine.</l>
+            </lg>
+            <pb n="11" facs="tcp:37062:7" rendition="simple:additions"/>
+            <lg>
+               <l>This is a handſome Abſtract of the Whole:</l>
+               <l>For all the Objects that we here do find</l>
+               <l>Are ſo adapted to a pious Soul,</l>
+               <l>At once they cheer, and elivate, the Mind.</l>
+            </lg>
+            <lg>
+               <l>How inexcuſable is then that Man</l>
+               <l>Who backward goes, or in By-paths will ſtray,</l>
+               <l>When in this open, eaſie Road, he can</l>
+               <l>Advance to Heaven in ſuch a heavenly Way?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>London</hi> has no a Church! Long miſt before:</l>
+               <l>For 'tis a certain Truth which all muſt own,</l>
+               <l>That for the ſpace of thirty Years, or more,</l>
+               <l>The Pariſh had a Church, the City none.</l>
+            </lg>
+            <lg>
+               <l>He who aſcends the Roof, and thence looks down,</l>
+               <l>While all around he takes th' amazing View<g ref="char:punc">▪</g>
+               </l>
+               <l>Of this Unbounded, and ſtill growing Town,</l>
+               <l>Stupendious Great, and no leſs Beautious too,</l>
+            </lg>
+            <lg>
+               <l>Graced with ſo many Spires, ſuch Princely Halls,</l>
+               <l>Whole Streets of Wonders, readily admits</l>
+               <l>That ſuch a City fits a Church like <hi>Pauls,</hi>
+               </l>
+               <l>And ſuch a Church ſuch City well befits.</l>
+            </lg>
+            <lg>
+               <l>Majeſtick Beauty! when the Harmony</l>
+               <l>Which from thy tuneful Voice is daily given,</l>
+               <l>Bleſſes the Ear, while thus you pleaſe the Eye,</l>
+               <l>How juſtly both appear a Taſt of Heaven!</l>
+            </lg>
+            <lg>
+               <l>Muſick, which charms a Soul ſo many ways,</l>
+               <l>Can all th' Affections of the mind produce,</l>
+               <l>And every Paſſion mitigate and raiſe,</l>
+               <l>Is beſt imploy'd for God, in ſacred uſe.</l>
+            </lg>
+            <lg>
+               <l>The only Science that's in Heaven profeſt,</l>
+               <l>Uſeleſs are other Arts, which we admire:</l>
+               <l>In this the Angells joyn and all the Bleſt,</l>
+               <l>Who with Mankind make one full, perfect, Choire.</l>
+            </lg>
+            <lg>
+               <l>By Muſick's Scale (like <hi>Jacob</hi>'s Ladder) we</l>
+               <l>In Spirit mount the higheſt Heavens, and thus</l>
+               <l>Meet Angels in united Harmony;</l>
+               <l>And the ſame way Angels deſcend to us.</l>
+            </lg>
+            <lg>
+               <l>Praiſe is the nobleſt Sacrifice, and paid</l>
+               <l>Duly from nobleſt Souls, but always beſt</l>
+               <l>(When to the beſt of Objects, Heaven, 'tis made)</l>
+               <l>With Songs, and Inſtruments of Joy, expreſt.</l>
+            </lg>
+            <pb n="12" facs="tcp:37062:8" rendition="simple:additions"/>
+            <lg>
+               <l>Moſt aptly then, and with a happy Choice,</l>
+               <l>In a Thanksgiving and an Act of Praiſe,</l>
+               <l>This Church revives,<note place="margin">Firſt opened on the <hi>2d.</hi> of
+<hi>Decemb. 1697.</hi> a Publick Thanksgiving day for the Peace.</note> for Peace, her long loſt Voice:</l>
+               <l>Celeſtial Peace! For which the whole Church prays.</l>
+            </lg>
+            <lg>
+               <l>Peace, that ſhut <hi>Janus</hi> Temple, opens this:</l>
+               <l>And thus in Conſequence it ought to be;</l>
+               <l>So fully oppoſite the Difference is</l>
+               <l>'Twixt true Religion, and Idolatry.</l>
+            </lg>
+            <lg>
+               <l>Apace the mighty Fabrick now will riſe,</l>
+               <l>And the Whole finiſht, ſoon, we hope to ſee;</l>
+               <l>Since in the Work the Church, her ſelf imploys,</l>
+               <l>By dayly Prayer, and ſacred Harmony.</l>
+            </lg>
+            <lg>
+               <l>To build with Harmony proves ſtrangely true!</l>
+               <l>Falſe and incredible did once appear</l>
+               <l>What ſome have ſaid <hi>Amphion</hi>'s Lute cou'd do;</l>
+               <l>'Twas Fiction then, but now we ſee it, here.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>
+               <hi>EPicteti Enchiridion,</hi> made <hi>Engliſh.</hi> In a <hi>Poetical Para<g ref="char:EOLhyphen"/>phraſe.</hi>
+By <hi>Ellis Walker,</hi> M. A. Printed for <hi>Sam.
+Keble</hi> at the <hi>Turk's-Head</hi> in <hi>Fleet-ſtreet,</hi> over againſt <hi>Fetter<g ref="char:EOLhyphen"/>lane.</hi>
+            </p>
+            <pb facs="tcp:37062:8"/>
+         </div>
+      </back>
+   </text>
+</TEI>
